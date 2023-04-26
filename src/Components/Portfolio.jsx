@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/nasa.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "earth";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "SIMON GAME 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created classic SIMON Game with HTML, CSS frontend and JavaScript.",
+    url: "https://arijeetbanerjee.github.io/SIMON-GAME/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "DRUM-KIT",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a game called drum kit which gives users the option to play different intrumental sounds, they can start playing it with keyboard or mouse.",
+    url: "https://arijeetbanerjee.github.io/DRUM-KIT/",
   },
   {
-    title: "My Resume Site",
+    title: "DICE GAME",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is a basic multiplayer game with a random probabilistic model which declares a user as the winner when his dice number is greater than the same as the other player.",
+    url: "https://arijeetbanerjee.github.io/DICE-GAME/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "TINDOG",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Made a commercial webpage using HTML,CSS,",
+    url: "https://arijeetbanerjee.github.io/TINDOG/",
   },
 ];
 
